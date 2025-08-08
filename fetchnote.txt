@@ -1,0 +1,1 @@
+Before pushing your changes, fetching lets you see if the remote has been updated, reducing merge conflicts later.
